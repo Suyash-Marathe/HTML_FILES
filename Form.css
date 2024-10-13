@@ -1,0 +1,40 @@
+body {
+	background-color: orange;
+}
+#caption {
+	color: blue; background-color: yellow; font-family: serif; font-weight: bold;
+}
+#name {
+	color: red; background-color: darkgrey; font-style: italic; font-family: cursive;
+}
+#number {
+	color: red; background-color: darkgrey; font-style: italic; font-family: cursive;
+}
+#date {
+	color: red; background-color: darkgrey; font-style: italic; font-family: cursive;
+}
+#gender {
+	color: red; background-color: darkgrey; font-style: italic; font-family: cursive;
+}
+#class {
+	color: red; background-color: darkgrey; font-style: italic; font-family: cursive;
+}
+#subject {
+	color: red; background-color: darkgrey; font-style: italic; font-family: cursive;
+}
+#time {
+	color: red; background-color: darkgrey; font-style: italic; font-family: cursive;
+}
+#colour {
+	color: red; background-color: darkgrey; font-style: italic; font-family: cursive;
+}
+#submit{
+	color: red; background-color: lightgreem; font-weight: bold; font-family: fantasy;
+}
+#reset {
+	color: red; background-color: lightgreen; text-decoration: underline; font-family: fantasy;
+}
+#thankyou {
+	color: white; background-color: black; font-style: italic; font-weight: bold; font-weight: bold; font-family: monospace;
+	font-size:100%;
+}

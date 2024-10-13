@@ -1,0 +1,30 @@
+body {
+	background-color: grey;
+}
+.title {
+	color: blue; background-color: black; font-size: 40px; font-family: serif;
+}
+.search {
+	color: brown; background-color: lightblue; font-family: fantasy;
+}
+.set {
+	color: brown; background-color: lightblue; font-family: fantasy;
+}
+.select {
+	color: brown; background-color: lightblue; font-family: fantasy;
+}
+.quantity {
+	color: brown; background-color: lightblue; font-family: fantasy;
+}
+.colour {
+	color: brown; background-color: lightblue; font-family: fantasy;
+}
+.datetime {
+	color: brown; background-color: lightblue; font-family: fantasy;
+}
+.payment {
+	color: brown; background-color: lightblue; font-family: fantasy;
+}
+.thankyou {
+	color: red; background-color: yellow; font-size: 40px; font-family: cursive;
+}

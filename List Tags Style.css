@@ -1,0 +1,12 @@
+body {
+  background-color: grey;
+}
+.orderedlist {
+  color: blue; background-color: lightgreen; font-family: fantasy;
+}
+.unorderedlist {
+  color: purple; background-color: yellow; font-family: cursive;
+}
+.definationlist {
+  color: white; background-color: black; font-family: serif;
+}
